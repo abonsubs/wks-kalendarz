@@ -1,0 +1,435 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:-//FI//new-plk//PL
+METHOD:PUBLISH
+X-WR-CALNAME:Wks Slask Wroclaw Season 2026 2027
+BEGIN:VEVENT
+UID:223464@new-plk
+DTSTAMP:20261024T135544Z
+DTSTART:2026100
+ 4T153000Z
+DTEND:20261004T173000Z
+SUMMARY:AMW Arka Gdynia vs WKS Śląsk Wr
+ ocław
+DESCRIPTION:Liga: PGE Polska Liga Koszykówki\nRunda: Runda Zasadnic
+ za\nKole
+ jka: 1 kolejka\nSzczegóły meczu: https://plk.pl/mecz/223464/amw
+ -arka-gdyni
+ a-vs-wks-slask-wroclaw
+END:VEVENT
+BEGIN:VEVENT
+UID:223474@new-plk
+DTSTAMP:20261024T135544Z
+DTSTART:2026101
+ 0T153000Z
+DTEND:20261010T173000Z
+SUMMARY:King Szczecin vs WKS Śląsk Wroc
+ ław
+DESCRIPTION:Liga: PGE Polska Liga Koszykówki\nRunda: Runda Zasadnicza
+ \nKole
+ jka: 2 kolejka\nSzczegóły meczu: https://plk.pl/mecz/223474/king-
+ szczecin-
+ vs-wks-slask-wroclaw
+END:VEVENT
+BEGIN:VEVENT
+UID:223479@new-plk
+DTSTAMP:20261024T135544Z
+DTSTART:2026101
+ 8T153000Z
+DTEND:20261018T173000Z
+SUMMARY:MKS Dąbrowa Górnicza vs WKS Ślą
+ sk Wrocław
+DESCRIPTION:Liga: PGE Polska Liga Koszykówki\nRunda: Runda Zas
+ adnicza\nKole
+ jka: 3 kolejka\nSzczegóły meczu: https://plk.pl/mecz/22347
+ 9/mks-dabrowa-go
+ rnicza-vs-wks-slask-wroclaw
+END:VEVENT
+BEGIN:VEVENT
+UID:223491@new-plk
+DTSTAMP:20261024T135544Z
+DTSTART:2026102
+ 4T173000Z
+DTEND:20261024T193000Z
+SUMMARY:WKS Śląsk Wrocław vs Enea Łacia
+ te Astoria Bydgoszcz
+DESCRIPTION:Liga: PGE Polska Liga Koszykówki\nRunda:
+  Runda Zasadnicza\nKole
+ jka: 4 kolejka\nSzczegóły meczu: https://plk.pl/
+ mecz/223491/wks-slask-wroc
+ law-vs-enea-laciate-astoria-bydgoszcz
+END:VE
+ VENT
+BEGIN:VEVENT
+UID:223494@new-plk
+DTSTAMP:20261024T135544Z
+DTSTART:2026110
+ 1T163000Z
+DTEND:20261101T183000Z
+SUMMARY:Euvic GTK Gliwice vs WKS Śląsk 
+ Wrocław
+DESCRIPTION:Liga: PGE Polska Liga Koszykówki\nRunda: Runda Zasadn
+ icza\nKole
+ jka: 5 kolejka\nSzczegóły meczu: https://plk.pl/mecz/223494/e
+ uvic-gtk-gliw
+ ice-vs-wks-slask-wroclaw
+END:VEVENT
+BEGIN:VEVENT
+UID:223508@new-plk
+DTSTAMP:20261024T135544Z
+DTSTART:2026110
+ 7T183000Z
+DTEND:20261107T203000Z
+SUMMARY:WKS Śląsk Wrocław vs Arriva Lot
+ to Twarde Pierniki Toruń
+DESCRIPTION:Liga: PGE Polska Liga Koszykówki\nRu
+ nda: Runda Zasadnicza\nKole
+ jka: 6 kolejka\nSzczegóły meczu: https://plk
+ .pl/mecz/223508/wks-slask-wroc
+ law-vs-arriva-lotto-twarde-pierniki-torun
+ 
+END:VEVENT
+BEGIN:VEVENT
+UID:223509@new-plk
+DTSTAMP:20261024T135544Z
+DTSTART:2026111
+ 4T183000Z
+DTEND:20261114T203000Z
+SUMMARY:WKS Śląsk Wrocław vs Zastal Zie
+ lona Góra
+DESCRIPTION:Liga: PGE Polska Liga Koszykówki\nRunda: Runda Zasa
+ dnicza\nKole
+ jka: 7 kolejka\nSzczegóły meczu: https://plk.pl/mecz/223509
+ /wks-slask-wroc
+ law-vs-zastal-zielona-gora
+END:VEVENT
+BEGIN:VEVENT
+UID:223524@new-plk
+DTSTAMP:20261024T135544Z
+DTSTART:2026112
+ 2T140000Z
+DTEND:20261122T160000Z
+SUMMARY:WKS Śląsk Wrocław vs Energa Tre
+ fl Sopot
+DESCRIPTION:Liga: PGE Polska Liga Koszykówki\nRunda: Runda Zasad
+ nicza\nKole
+ jka: 8 kolejka\nSzczegóły meczu: https://plk.pl/mecz/223524/
+ wks-slask-wroc
+ law-vs-energa-trefl-sopot
+END:VEVENT
+BEGIN:VEVENT
+UID:223560@new-plk
+DTSTAMP:20261024T135544Z
+DTSTART:2026120
+ 3T190000Z
+DTEND:20261203T210000Z
+SUMMARY:Anwil Włocławek vs WKS Śląsk Wr
+ ocław
+DESCRIPTION:Liga: PGE Polska Liga Koszykówki\nRunda: Runda Zasadnic
+ za\nKole
+ jka: 13 kolejka\nSzczegóły meczu: https://plk.pl/mecz/223560/an
+ wil-wloclaw
+ ek-vs-wks-slask-wroclaw
+END:VEVENT
+BEGIN:VEVENT
+UID:223526@new-plk
+DTSTAMP:20261024T135544Z
+DTSTART:2026120
+ 5T230000Z
+DTEND:20261206T010000Z
+SUMMARY:PGE Start Lublin vs WKS Śląsk W
+ rocław
+DESCRIPTION:Liga: PGE Polska Liga Koszykówki\nRunda: Runda Zasadni
+ cza\nKole
+ jka: 9 kolejka\nSzczegóły meczu: https://plk.pl/mecz/223526/pg
+ e-start-lubl
+ in-vs-wks-slask-wroclaw
+END:VEVENT
+BEGIN:VEVENT
+UID:223539@new-plk
+DTSTAMP:20261024T135544Z
+DTSTART:2026121
+ 1T230000Z
+DTEND:20261212T010000Z
+SUMMARY:Górnik Zamek Książ Wałbrzych vs
+  WKS Śląsk Wrocław
+DESCRIPTION:Liga: PGE Polska Liga Koszykówki\nRunda: R
+ unda Zasadnicza\nKole
+ jka: 10 kolejka\nSzczegóły meczu: https://plk.pl/m
+ ecz/223539/gornik-zamek-
+ ksiaz-walbrzych-vs-wks-slask-wroclaw
+END:VEVEN
+ T
+BEGIN:VEVENT
+UID:223543@new-plk
+DTSTAMP:20261024T135544Z
+DTSTART:2026121
+ 8T230000Z
+DTEND:20261219T010000Z
+SUMMARY:WKS Śląsk Wrocław vs Energa Cza
+ rni Słupsk
+DESCRIPTION:Liga: PGE Polska Liga Koszykówki\nRunda: Runda Zas
+ adnicza\nKole
+ jka: 11 kolejka\nSzczegóły meczu: https://plk.pl/mecz/2235
+ 43/wks-slask-wro
+ claw-vs-energa-czarni-slupsk
+END:VEVENT
+BEGIN:VEVENT
+UID:223554@new-plk
+DTSTAMP:20261024T135544Z
+DTSTART:2026122
+ 5T230000Z
+DTEND:20261226T010000Z
+SUMMARY:WKS Śląsk Wrocław vs Legia Wars
+ zawa
+DESCRIPTION:Liga: PGE Polska Liga Koszykówki\nRunda: Runda Zasadnicz
+ a\nKole
+ jka: 12 kolejka\nSzczegóły meczu: https://plk.pl/mecz/223554/wks
+ -slask-wro
+ claw-vs-legia-warszawa
+END:VEVENT
+BEGIN:VEVENT
+UID:223569@new-plk
+DTSTAMP:20261024T135544Z
+DTSTART:2027010
+ 1T230000Z
+DTEND:20270102T010000Z
+SUMMARY:Tasomix Rosiek Stal Ostrów Wiel
+ kopolski vs WKS Śląsk Wrocław
+DESCRIPTION:Liga: PGE Polska Liga Koszykówk
+ i\nRunda: Runda Zasadnicza\nKole
+ jka: 14 kolejka\nSzczegóły meczu: https
+ ://plk.pl/mecz/223569/tasomix-rosie
+ k-stal-ostrow-wielkopolski-vs-wks-sl
+ ask-wroclaw
+END:VEVENT
+BEGIN:VEVENT
+UID:223577@new-plk
+DTSTAMP:20261024T135544Z
+DTSTART:2027010
+ 8T230000Z
+DTEND:20270109T010000Z
+SUMMARY:WKS Śląsk Wrocław vs Dziki Wars
+ zawa
+DESCRIPTION:Liga: PGE Polska Liga Koszykówki\nRunda: Runda Zasadnicz
+ a\nKole
+ jka: 15 kolejka\nSzczegóły meczu: https://plk.pl/mecz/223577/wks
+ -slask-wro
+ claw-vs-dziki-warszawa
+END:VEVENT
+BEGIN:VEVENT
+UID:223584@new-plk
+DTSTAMP:20261024T135544Z
+DTSTART:2027011
+ 6T230000Z
+DTEND:20270117T010000Z
+SUMMARY:Zastal Zielona Góra vs WKS Śląs
+ k Wrocław
+DESCRIPTION:Liga: PGE Polska Liga Koszykówki\nRunda: Runda Zasa
+ dnicza\nKole
+ jka: 16 kolejka\nSzczegóły meczu: https://plk.pl/mecz/22358
+ 4/zastal-zielon
+ a-gora-vs-wks-slask-wroclaw
+END:VEVENT
+BEGIN:VEVENT
+UID:223594@new-plk
+DTSTAMP:20261024T135544Z
+DTSTART:2027012
+ 2T230000Z
+DTEND:20270123T010000Z
+SUMMARY:Legia Warszawa vs WKS Śląsk Wro
+ cław
+DESCRIPTION:Liga: PGE Polska Liga Koszykówki\nRunda: Runda Zasadnicz
+ a\nKole
+ jka: 17 kolejka\nSzczegóły meczu: https://plk.pl/mecz/223594/leg
+ ia-warszaw
+ a-vs-wks-slask-wroclaw
+END:VEVENT
+BEGIN:VEVENT
+UID:223599@new-plk
+DTSTAMP:20261024T135544Z
+DTSTART:2027013
+ 0T230000Z
+DTEND:20270131T010000Z
+SUMMARY:Dziki Warszawa vs WKS Śląsk Wro
+ cław
+DESCRIPTION:Liga: PGE Polska Liga Koszykówki\nRunda: Runda Zasadnicz
+ a\nKole
+ jka: 18 kolejka\nSzczegóły meczu: https://plk.pl/mecz/223599/dzi
+ ki-warszaw
+ a-vs-wks-slask-wroclaw
+END:VEVENT
+BEGIN:VEVENT
+UID:223611@new-plk
+DTSTAMP:20261024T135544Z
+DTSTART:2027020
+ 6T230000Z
+DTEND:20270207T010000Z
+SUMMARY:WKS Śląsk Wrocław vs PGE Start 
+ Lublin
+DESCRIPTION:Liga: PGE Polska Liga Koszykówki\nRunda: Runda Zasadni
+ cza\nKole
+ jka: 19 kolejka\nSzczegóły meczu: https://plk.pl/mecz/223611/w
+ ks-slask-wro
+ claw-vs-pge-start-lublin
+END:VEVENT
+BEGIN:VEVENT
+UID:223614@new-plk
+DTSTAMP:20261024T135544Z
+DTSTART:2027021
+ 0T230000Z
+DTEND:20270211T010000Z
+SUMMARY:Arriva Lotto Twarde Pierniki To
+ ruń vs WKS Śląsk Wrocław
+DESCRIPTION:Liga: PGE Polska Liga Koszykówki\nRu
+ nda: Runda Zasadnicza\nKole
+ jka: 20 kolejka\nSzczegóły meczu: https://pl
+ k.pl/mecz/223614/arriva-lotto-
+ twarde-pierniki-torun-vs-wks-slask-wrocla
+ w
+END:VEVENT
+BEGIN:VEVENT
+UID:223628@new-plk
+DTSTAMP:20261024T135544Z
+DTSTART:2027030
+ 4T230000Z
+DTEND:20270305T010000Z
+SUMMARY:WKS Śląsk Wrocław vs King Szcze
+ cin
+DESCRIPTION:Liga: PGE Polska Liga Koszykówki\nRunda: Runda Zasadnicza
+ \nKole
+ jka: 21 kolejka\nSzczegóły meczu: https://plk.pl/mecz/223628/wks-
+ slask-wro
+ claw-vs-king-szczecin
+END:VEVENT
+BEGIN:VEVENT
+UID:223629@new-plk
+DTSTAMP:20261024T135544Z
+DTSTART:2027031
+ 2T230000Z
+DTEND:20270313T010000Z
+SUMMARY:Enea Łaciate Astoria Bydgoszcz 
+ vs WKS Śląsk Wrocław
+DESCRIPTION:Liga: PGE Polska Liga Koszykówki\nRunda:
+  Runda Zasadnicza\nKole
+ jka: 22 kolejka\nSzczegóły meczu: https://plk.pl
+ /mecz/223629/enea-laciate-
+ astoria-bydgoszcz-vs-wks-slask-wroclaw
+END:V
+ EVENT
+BEGIN:VEVENT
+UID:223644@new-plk
+DTSTAMP:20261024T135544Z
+DTSTART:2027032
+ 0T230000Z
+DTEND:20270321T010000Z
+SUMMARY:Energa Czarni Słupsk vs WKS Ślą
+ sk Wrocław
+DESCRIPTION:Liga: PGE Polska Liga Koszykówki\nRunda: Runda Zas
+ adnicza\nKole
+ jka: 23 kolejka\nSzczegóły meczu: https://plk.pl/mecz/2236
+ 44/energa-czarni
+ -slupsk-vs-wks-slask-wroclaw
+END:VEVENT
+BEGIN:VEVENT
+UID:223646@new-plk
+DTSTAMP:20261024T135544Z
+DTSTART:2027032
+ 8T220000Z
+DTEND:20270329T000000Z
+SUMMARY:WKS Śląsk Wrocław vs Anwil Włoc
+ ławek
+DESCRIPTION:Liga: PGE Polska Liga Koszykówki\nRunda: Runda Zasadnic
+ za\nKole
+ jka: 24 kolejka\nSzczegóły meczu: https://plk.pl/mecz/223646/wk
+ s-slask-wro
+ claw-vs-anwil-wloclawek
+END:VEVENT
+BEGIN:VEVENT
+UID:223659@new-plk
+DTSTAMP:20261024T135544Z
+DTSTART:2027040
+ 1T220000Z
+DTEND:20270402T000000Z
+SUMMARY:WKS Śląsk Wrocław vs AMW Arka G
+ dynia
+DESCRIPTION:Liga: PGE Polska Liga Koszykówki\nRunda: Runda Zasadnic
+ za\nKole
+ jka: 25 kolejka\nSzczegóły meczu: https://plk.pl/mecz/223659/wk
+ s-slask-wro
+ claw-vs-amw-arka-gdynia
+END:VEVENT
+BEGIN:VEVENT
+UID:223663@new-plk
+DTSTAMP:20261024T135544Z
+DTSTART:2027040
+ 7T220000Z
+DTEND:20270408T000000Z
+SUMMARY:WKS Śląsk Wrocław vs Euvic GTK 
+ Gliwice
+DESCRIPTION:Liga: PGE Polska Liga Koszykówki\nRunda: Runda Zasadn
+ icza\nKole
+ jka: 26 kolejka\nSzczegóły meczu: https://plk.pl/mecz/223663/
+ wks-slask-wro
+ claw-vs-euvic-gtk-gliwice
+END:VEVENT
+BEGIN:VEVENT
+UID:223674@new-plk
+DTSTAMP:20261024T135544Z
+DTSTART:2027041
+ 8T220000Z
+DTEND:20270419T000000Z
+SUMMARY:WKS Śląsk Wrocław vs Górnik Zam
+ ek Książ Wałbrzych
+DESCRIPTION:Liga: PGE Polska Liga Koszykówki\nRunda: R
+ unda Zasadnicza\nKole
+ jka: 27 kolejka\nSzczegóły meczu: https://plk.pl/m
+ ecz/223674/wks-slask-wro
+ claw-vs-gornik-zamek-ksiaz-walbrzych
+END:VEVEN
+ T
+BEGIN:VEVENT
+UID:223680@new-plk
+DTSTAMP:20261024T135544Z
+DTSTART:2027042
+ 4T220000Z
+DTEND:20270425T000000Z
+SUMMARY:WKS Śląsk Wrocław vs MKS Dąbrow
+ a Górnicza
+DESCRIPTION:Liga: PGE Polska Liga Koszykówki\nRunda: Runda Zas
+ adnicza\nKole
+ jka: 28 kolejka\nSzczegóły meczu: https://plk.pl/mecz/2236
+ 80/wks-slask-wro
+ claw-vs-mks-dabrowa-gornicza
+END:VEVENT
+BEGIN:VEVENT
+UID:223689@new-plk
+DTSTAMP:20261024T135544Z
+DTSTART:2027050
+ 1T103000Z
+DTEND:20270501T123000Z
+SUMMARY:Energa Trefl Sopot vs WKS Śląsk
+  Wrocław
+DESCRIPTION:Liga: PGE Polska Liga Koszykówki\nRunda: Runda Zasad
+ nicza\nKole
+ jka: 29 kolejka\nSzczegóły meczu: https://plk.pl/mecz/223689
+ /energa-trefl-
+ sopot-vs-wks-slask-wroclaw
+END:VEVENT
+BEGIN:VEVENT
+UID:223697@new-plk
+DTSTAMP:20261024T135544Z
+DTSTART:2027050
+ 6T170000Z
+DTEND:20270506T190000Z
+SUMMARY:WKS Śląsk Wrocław vs Tasomix Ro
+ siek Stal Ostrów Wielkopolski
+DESCRIPTION:Liga: PGE Polska Liga Koszykówk
+ i\nRunda: Runda Zasadnicza\nKole
+ jka: 30 kolejka\nSzczegóły meczu: https
+ ://plk.pl/mecz/223697/wks-slask-wro
+ claw-vs-tasomix-rosiek-stal-ostrow-w
+ ielkopolski
+END:VEVENT
+END:VCALENDAR

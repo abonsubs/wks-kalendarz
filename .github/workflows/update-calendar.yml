@@ -1,0 +1,44 @@
+name: Aktualizacja kalendarza WKS Śląsk
+
+# Kiedy uruchamiać:
+on:
+  schedule:
+    - cron: "0 5 * * *"      # codziennie o 05:00 UTC (ok. 6:00/7:00 w PL)
+  workflow_dispatch: {}        # przycisk "Run workflow" do ręcznego odpalenia
+  push:
+    branches: [main]
+    paths:
+      - generate_ics.py
+      - .github/workflows/update-calendar.yml
+
+# Workflow commituje zaktualizowany plik .ics, więc potrzebuje prawa zapisu.
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Pobierz repozytorium
+        uses: actions/checkout@v4
+
+      - name: Zainstaluj Pythona
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Wygeneruj kalendarz
+        run: python generate_ics.py
+
+      - name: Commit, jeśli terminarz się zmienił
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if [ -n "$(git status --porcelain '*.ics')" ]; then
+            git add '*.ics'
+            git commit -m "Aktualizacja terminarza ($(date -u +%Y-%m-%d))"
+            git push
+            echo "Zmieniono terminarz — zapisano nową wersję."
+          else
+            echo "Bez zmian w terminarzu."
+          fi
